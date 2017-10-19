@@ -91,6 +91,7 @@
     "ie-shim": "^0.1.0",
     "reflect-metadata": "^0.1.10",
     "rxjs": "^5.4.3",
+    "wp-api-angular": "^3.0.0-beta8",
     "zone.js": "~0.8.18"
   },
   "devDependencies": {
