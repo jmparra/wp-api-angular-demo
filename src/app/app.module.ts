@@ -11,7 +11,7 @@ import { AppComponent } from './app.component';
 
 
 export function WpApiLoaderFactory(http: Http) {
-  return new WpApiStaticLoader(http, 'https://dev.julienrenaux.fr/wp-json');
+  return new WpApiStaticLoader(http, 'https://web1-memoria.haulmer.xyz/api/wp-json');
 }
 
 @NgModule({
